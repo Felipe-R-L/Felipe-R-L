@@ -67,7 +67,7 @@ Here are some of the technologies and tools I work with:
 
 ### 🌟 Projects
 
-* **Project OMD Farm** | [Repo Link]() | [Live Demo]()
+* **Project OMD Farm** | NDA Protected
     * SaaS focused in precision agriculture, display telemetry and planting data in Google Maps Integration.
     * Front-end architecture and development. 
     * *Built with: Angular, TypeScript, Firebase, NestJs etc.*

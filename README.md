@@ -79,12 +79,6 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### 📊 GitHub Stats:
-    * Example: `[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-R-L&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)`
-* **GitHub Streak Stats**: `https://github.com/DenverCoder1/github-readme-streak-stats`
-* `[![GitHub Streak](https://streak-stats.demolab.com/?user=Felipe-R-L&theme=dark)](https://git.io/streak-stats)`
----
-
 ### 📫 How to Reach Me
 
 * **Portfolio:** [feliperl.space](https://feliperl.space)

@@ -28,12 +28,12 @@ Here are some of the technologies and tools I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SCSS" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJS" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://ngrx.io/assets/images/ngrx-logo-transparent.svg" alt="NgRx" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/ngrx.svg" alt="NgRx" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://www.primefaces.org/primeng/primeng-logo.svg" alt="PrimeNG" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://coreui.io/images/brand/coreui-signet.svg" alt="CoreUI" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="ChartJS" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://echarts.apache.org/theme/images/logo.svg" alt="Apache ECharts" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/Maps/Maps-icon.svg" alt="Google Maps API" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/apache/echarts/master/asset/logo.svg" alt="Apache ECharts" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlemaps.svg" alt="Google Maps API" width="36" height="36" style="background-color:white; padding:1px; border-radius:3px;"/>
 </p>
 
 * **Languages:** `TypeScript`, `JavaScript`, `HTML5`, `SCSS/CSS3`

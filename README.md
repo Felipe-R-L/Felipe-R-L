@@ -1,9 +1,4 @@
-# I'm Felipe Rodrigues Leone!
-
-<p align="center">
-  <a href="https://github.com/Felipe-R-L">
-    </a>
-</p>
+# Hi there, I'm Felipe Rodrigues Leone! 👋
 
 I'm a **Front-End Developer** from Brazil 🇧🇷, passionate about building intuitive, high-performance user interfaces and translating complex business requirements into robust technical solutions that deliver strategic value.
 
@@ -26,26 +21,57 @@ I'm a **Front-End Developer** from Brazil 🇧🇷, passionate about building in
 Here are some of the technologies and tools I work with:
 
 **Front-End Development:**
-* **Languages:** `TypeScript`, `JavaScript`, `Java`, `HTML5`, `SCSS/CSS3`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SCSS" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJS" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://ngrx.io/assets/images/ngrx-logo-transparent.svg" alt="NgRx" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.primefaces.org/primeng/primeng-logo.svg" alt="PrimeNG" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://coreui.io/images/brand/coreui-signet.svg" alt="CoreUI" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="ChartJS" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://echarts.apache.org/theme/images/logo.svg" alt="Apache ECharts" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/Maps/Maps-icon.svg" alt="Google Maps API" width="36" height="36"/>
+</p>
+
+* **Languages:** `TypeScript`, `JavaScript`, `HTML5`, `SCSS/CSS3`
 * **Frameworks/Libraries:** `Angular`, `RxJS`, `NgRx`, `PrimeNg`, `CoreUI`
 * **UI/UX Focus:** Responsive Design, Interactive Interfaces
 * **Charting:** `ChartJS`, `Apache ECharts`
 * **Mapping:** `Google Maps API`
 
 **Back-End Development (Currently Expanding):**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="36" height="36"/>
+</p>
+
 * `NestJS` (Learning & Applying)
 * `Java` (Knowledge)
 
 **Other Technologies & Principles:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="Trello" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/obsidian/obsidian-original.svg" alt="Obsidian" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="36" height="36"/>
+</p>
+
 * **Version Control:** `Git` (Semantic Versioning)
 * **APIs:** `REST API` Integration
-* **Cloud:** `Google Cloud Platform (GCP)` (App Engine, Firestore, Firebase Auth),
+* **Cloud:** `Google Cloud Platform (GCP)` (App Engine, Firestore, Firebase Auth)
 * **Databases:** `Firestore`, `Neon/PostgreSQL`
 * **Methodologies & Principles:** `Agile (Scrum)`, `SOLID`, `Clean Architecture`
 * **Tools:** `Trello`, `Notion`, `Obsidian`
 * **Familiarity:** `Python`, `C`, `Laravel`
-
-*(You can enhance this section with icons! Check out resources like [Skill Icons](https://github.com/tandpfun/skill-icons) or [Simple Icons](https://simpleicons.org/) as suggested in best practices. Source 1.2)*
 
 ---
 
@@ -67,14 +93,14 @@ Here are some of the technologies and tools I work with:
 
 ### 🌟 Projects
 
-* **Project OMD Farm** | NDA Protected
-    * SaaS focused in precision agriculture, display telemetry and planting data in Google Maps Integration.
-    * Front-end architecture and development. 
-    * *Built with: Angular, TypeScript, Firebase, NestJs etc.*
-      
-* **Project HSaSConnect** | NDA Protected
-    * SaaS focused in monitoring ground bore equipament in real time:
-    * Design and code for the diesel engine page
+* **Project OMD Farm** | *NDA Protected*
+    * SaaS focused on precision agriculture, displaying telemetry and planting data with Google Maps Integration.
+    * Front-end architecture and development.
+    * *Built with: Angular, TypeScript, Firebase, NestJS, etc.*
+
+* **Project HSaSConnect** | *NDA Protected*
+    * SaaS focused on monitoring ground bore equipment in real-time.
+    * Designed and coded the diesel engine page.
     * *Built with: Laravel/Blade*
 
 ---
@@ -86,6 +112,7 @@ Here are some of the technologies and tools I work with:
 * **Email:** [leone.feliper@gmail.com](mailto:leone.feliper@gmail.com)
 
 ---
+
 <p align="center">
-  <em>Let's connect and build something amazing!</em>
+  <em>Let's connect and build something amazing! ✨</em>
 </p>

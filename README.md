@@ -28,13 +28,12 @@ Here are some of the technologies and tools I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SCSS" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJS" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/ngrx.svg" alt="NgRx" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?ssl=1" alt="PrimeNG" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://coreui.io/images/brand/coreui-signet.svg" alt="CoreUI" width="36" height="36"/>&nbsp;&nbsp;
 </p>
 
 * **Languages:** `TypeScript`, `JavaScript`, `HTML5`, `SCSS/CSS3`
-* **Frameworks/Libraries:** `Angular`, `RxJS`, `NgRx`, `PrimeNg`, `CoreUI`
+* **Frameworks/Libraries:** `Angular`, `RxJS`, `PrimeNg`, `CoreUI`
 * **UI/UX Focus:** Responsive Design, Interactive Interfaces
 * **Charting:** `ChartJS`, `Apache ECharts`
 * **Mapping:** `Google Maps API`

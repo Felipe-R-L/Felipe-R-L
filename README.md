@@ -29,11 +29,8 @@ Here are some of the technologies and tools I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RxJS" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/ngrx.svg" alt="NgRx" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://www.primefaces.org/primeng/primeng-logo.svg" alt="PrimeNG" width="36" height="36"/>&nbsp;&nbsp;
+  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?ssl=1" alt="PrimeNG" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://coreui.io/images/brand/coreui-signet.svg" alt="CoreUI" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="ChartJS" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/apache/echarts/master/asset/logo.svg" alt="Apache ECharts" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlemaps.svg" alt="Google Maps API" width="36" height="36" style="background-color:white; padding:1px; border-radius:3px;"/>
 </p>
 
 * **Languages:** `TypeScript`, `JavaScript`, `HTML5`, `SCSS/CSS3`
@@ -59,7 +56,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" alt="Trello" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="36" height="36"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/obsidian/obsidian-original.svg" alt="Obsidian" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="36" height="36"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="36" height="36"/>

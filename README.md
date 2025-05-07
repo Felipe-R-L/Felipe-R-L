@@ -1,4 +1,4 @@
-# Hi there, I'm Felipe Rodrigues Leone! 👋
+# I'm Felipe Rodrigues Leone!
 
 <p align="center">
   <a href="https://github.com/Felipe-R-L">
@@ -72,7 +72,7 @@ Here are some of the technologies and tools I work with:
     * Front-end architecture and development. 
     * *Built with: Angular, TypeScript, Firebase, NestJs etc.*
       
-* **Project HSaSConnect 2** | NDA Protected
+* **Project HSaSConnect** | NDA Protected
     * SaaS focused in monitoring ground bore equipament in real time:
     * Design and code for the diesel engine page
     * *Built with: Laravel/Blade*

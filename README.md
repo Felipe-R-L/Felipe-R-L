@@ -49,12 +49,6 @@ I'm a **Fullstack Developer** from Brazil 🇧🇷
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/felipe-r-l">
-    <img src="https://ghchart.rshah.org/felipe-r-l" alt="Felipe's GitHub Contribution Chart" />
-  </a>
-</p>
-
 ---
 
 ### 💼 Experience Snapshot

@@ -50,8 +50,8 @@ I'm a **Fullstack Developer** from Brazil 🇧🇷
 </table>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipe-r-l&bg_color=1a1b27&color=79dafa&line=2aa889&point=4485eb&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/felipe-r-l">
+    <img src="https://ghchart.rshah.org/felipe-r-l" alt="Felipe's GitHub Contribution Chart" />
   </a>
 </p>
 
